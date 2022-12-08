@@ -1,7 +1,7 @@
 #include <studio.h>
 /**
  * main - main block
- * Return: 0
+ * Return: o
  */
 int main(void)
 {
