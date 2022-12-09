@@ -2,9 +2,10 @@
 /**
  * main - Entry
  *
+ *Description: lower and uppercase
+ *
  * Remain: Always 0 (Success)
  */
-
 int main(void)
 {
 	char c;
