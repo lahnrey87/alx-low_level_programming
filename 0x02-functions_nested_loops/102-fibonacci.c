@@ -33,6 +33,5 @@ int main(void)
 		next = first + second;
 		count++;
 	}
-	printf("\n");
 	return (0);
 }
