@@ -1,14 +1,18 @@
 #include "main.h"
 
 /**
- * Print_numbers -> print numbers
+ * Print_numbers - print num from 0 - 9
+ * Return: void
  */
 
 void print_numbers(void)
 {
-	int x;
+	char x;
 
-	for (x = 0; x < 10; x++)
-		_putchar(x + '0');
+	for (x = '0'; x <= '9'; x++)
+	{
+
+		_putchar(x);
+	}
 	_putchar('\n');
 }
