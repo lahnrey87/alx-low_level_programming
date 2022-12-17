@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * prints_line - prints straight line n times.
- * Description: print line
+ * print_line - prints straight line n times
+ * .
  * @n: times straight line is printed.
  * Return: no return.
  */
