@@ -12,5 +12,6 @@ int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 int _evaluate(int i, int n);
 int evaluate_num(int num, int iterator);
+int p1(char *s, int l);
 
 #endif
