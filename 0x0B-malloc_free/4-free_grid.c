@@ -1,12 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
 /**
- * free_grid - frees 2d array
- * @grid: 2d grid
+ * free_grid - allocates a grid, make space and free space
+ * @grid: takes in width of grid
  * @height: height dimension of grid
- * Description: frees memory of grid
- * Return: nothing
+ * Return: free grid
  */
 void free_grid(int **grid, int height)
 {
